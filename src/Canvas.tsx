@@ -151,8 +151,6 @@ const Canvas = ({ dataCategory }: Props) => {
         marker.x,
         marker.y,
         Number(marker[dataCategory]) / 2,
-        0.005,
-        20,
         marker.country
       );
       allCylinderVertices.push(...vertices);
