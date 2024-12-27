@@ -1,0 +1,1740 @@
+[
+    {
+      "country": "Afghanistan",
+      "lat": 33.93911,
+      "lon": 67.709953,
+      "population": 38928346,
+      "gdp": 20136619337,
+      "area": 652230,
+      "averageElevation": 1884
+    },
+    {
+      "country": "Albania",
+      "lat": 41.153332,
+      "lon": 20.168331,
+      "population": 2877797,
+      "gdp": 15278077447,
+      "area": 28748,
+      "averageElevation": 708
+    },
+    {
+      "country": "Algeria",
+      "lat": 36.752887,
+      "lon": 3.042048,
+      "population": 44616624,
+      "gdp": 151461096275,
+      "area": 2381741,
+      "averageElevation": 800
+    },
+    {
+      "country": "Andorra",
+      "lat": 42.546245,
+      "lon": 1.601554,
+      "population": 77265,
+      "gdp": 3154037634,
+      "area": 468,
+      "averageElevation": 1996
+    },
+    {
+      "country": "Angola",
+      "lat": -11.202692,
+      "lon": 17.873887,
+      "population": 32866272,
+      "gdp": 62307973167,
+      "area": 1246700,
+      "averageElevation": 1112
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "lat": 17.060816,
+      "lon": -61.796428,
+      "population": 97929,
+      "gdp": 1415431481,
+      "area": 442,
+      "averageElevation": 27
+    },
+    {
+      "country": "Argentina",
+      "lat": -38.416097,
+      "lon": -63.616672,
+      "population": 45195774,
+      "gdp": 449663446954,
+      "area": 2780400,
+      "averageElevation": 595
+    },
+    {
+      "country": "Armenia",
+      "lat": 40.069099,
+      "lon": 45.038189,
+      "population": 2963243,
+      "gdp": 13672802891,
+      "area": 29743,
+      "averageElevation": 1792
+    },
+    {
+      "country": "Australia",
+      "lat": -25.274398,
+      "lon": 133.775136,
+      "population": 25499884,
+      "gdp": 1543197342335,
+      "area": 7692024,
+      "averageElevation": 330
+    },
+    {
+      "country": "Austria",
+      "lat": 47.516231,
+      "lon": 14.550072,
+      "population": 9006398,
+      "gdp": 445128532861,
+      "area": 83871,
+      "averageElevation": 910
+    },
+    {
+      "country": "Azerbaijan",
+      "lat": 40.143105,
+      "lon": 47.576927,
+      "population": 10139177,
+      "gdp": 54622176471,
+      "area": 86600,
+      "averageElevation": 384
+    },
+    {
+      "country": "Bahamas",
+      "lat": 25.03428,
+      "lon": -77.39628,
+      "population": 393244,
+      "gdp": 11250000000,
+      "area": 13943,
+      "averageElevation": 4
+    },
+    {
+      "country": "Bahrain",
+      "lat": 26.0667,
+      "lon": 50.5577,
+      "population": 1701575,
+      "gdp": 38574069149,
+      "area": 765,
+      "averageElevation": 1
+    },
+    {
+      "country": "Bangladesh",
+      "lat": 23.684994,
+      "lon": 90.356331,
+      "population": 164689383,
+      "gdp": 324239177958,
+      "area": 147570,
+      "averageElevation": 85
+    },
+    {
+      "country": "Barbados",
+      "lat": 13.193887,
+      "lon": -59.543198,
+      "population": 287375,
+      "gdp": 4843800000,
+      "area": 430,
+      "averageElevation": 34
+    },
+    {
+      "country": "Belarus",
+      "lat": 53.709807,
+      "lon": 27.953389,
+      "population": 9449323,
+      "gdp": 63080457727,
+      "area": 207600,
+      "averageElevation": 160
+    },
+    {
+      "country": "Belgium",
+      "lat": 50.503887,
+      "lon": 4.469936,
+      "population": 11589623,
+      "gdp": 521860000000,
+      "area": 30528,
+      "averageElevation": 181
+    },
+    {
+      "country": "Belize",
+      "lat": 17.189877,
+      "lon": -88.49765,
+      "population": 397628,
+      "gdp": 1987000000,
+      "area": 22970,
+      "averageElevation": 173
+    },
+    {
+      "country": "Benin",
+      "lat": 9.30769,
+      "lon": 2.315834,
+      "population": 12123200,
+      "gdp": 15651954091,
+      "area": 112622,
+      "averageElevation": 273
+    },
+    {
+      "country": "Bhutan",
+      "lat": 27.514162,
+      "lon": 90.433601,
+      "population": 771608,
+      "gdp": 2407897852,
+      "area": 38394,
+      "averageElevation": 2220
+    },
+    {
+      "country": "Bolivia",
+      "lat": -16.290154,
+      "lon": -63.588653,
+      "population": 11673021,
+      "gdp": 36572764862,
+      "area": 1098581,
+      "averageElevation": 1192
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "lat": 43.915886,
+      "lon": 17.679076,
+      "population": 3280819,
+      "gdp": 20047848435,
+      "area": 51197,
+      "averageElevation": 500
+    },
+    {
+      "country": "Botswana",
+      "lat": -22.328474,
+      "lon": 24.684866,
+      "population": 2351627,
+      "gdp": 15781734220,
+      "area": 581730,
+      "averageElevation": 1013
+    },
+    {
+      "country": "Brazil",
+      "lat": -14.235004,
+      "lon": -51.92528,
+      "population": 212559417,
+      "gdp": 1444733258972,
+      "area": 8515770,
+      "averageElevation": 320
+    },
+    {
+      "country": "Brunei",
+      "lat": 4.535277,
+      "lon": 114.727669,
+      "population": 437479,
+      "gdp": 12016000000,
+      "area": 5765,
+      "averageElevation": 478
+    },
+    {
+      "country": "Bulgaria",
+      "lat": 42.733883,
+      "lon": 25.48583,
+      "population": 6948445,
+      "gdp": 68558815112,
+      "area": 110879,
+      "averageElevation": 472
+    },
+    {
+      "country": "Burkina Faso",
+      "lat": 12.238333,
+      "lon": -1.561593,
+      "population": 20903273,
+      "gdp": 15990314033,
+      "area": 274200,
+      "averageElevation": 297
+    },
+    {
+      "country": "Burundi",
+      "lat": -3.373056,
+      "lon": 29.918886,
+      "population": 11890784,
+      "gdp": 3258230823,
+      "area": 27830,
+      "averageElevation": 1504
+    },
+    {
+      "country": "Cambodia",
+      "lat": 12.565679,
+      "lon": 104.990963,
+      "population": 16718965,
+      "gdp": 25291321437,
+      "area": 181035,
+      "averageElevation": 126
+    },
+    {
+      "country": "Cameroon",
+      "lat": 7.369722,
+      "lon": 12.354722,
+      "population": 26545863,
+      "gdp": 39802147513,
+      "area": 475442,
+      "averageElevation": 667
+    },
+    {
+      "country": "Canada",
+      "lat": 56.130366,
+      "lon": -106.346771,
+      "population": 37742154,
+      "gdp": 1643408000000,
+      "area": 9984670,
+      "averageElevation": 487
+    },
+    {
+      "country": "Central African Republic",
+      "lat": 6.611111,
+      "lon": 20.939444,
+      "population": 4829767,
+      "gdp": 2380087133,
+      "area": 622984,
+      "averageElevation": 635
+    },
+    {
+      "country": "Chad",
+      "lat": 15.454166,
+      "lon": 18.732207,
+      "population": 16425864,
+      "gdp": 10093108000,
+      "area": 1284000,
+      "averageElevation": 543
+    },
+    {
+      "country": "Chile",
+      "lat": -35.675147,
+      "lon": -71.542969,
+      "population": 19116201,
+      "gdp": 252940023046,
+      "area": 756102,
+      "averageElevation": 1871
+    },
+    {
+      "country": "China",
+      "lat": 35.86166,
+      "lon": 104.195397,
+      "population": 1439323776,
+      "gdp": 14722730697890,
+      "area": 9596961,
+      "averageElevation": 1840
+    },
+    {
+      "country": "Colombia",
+      "lat": 4.570868,
+      "lon": -74.297333,
+      "population": 50882891,
+      "gdp": 271437597759,
+      "area": 1141748,
+      "averageElevation": 593
+    },
+    {
+      "country": "Comoros",
+      "lat": -11.875001,
+      "lon": 43.872219,
+      "population": 869601,
+      "gdp": 1185728571,
+      "area": 2235,
+      "averageElevation": 264
+    },
+    {
+      "country": "Congo",
+      "lat": -0.228021,
+      "lon": 15.827659,
+      "population": 5518087,
+      "gdp": 10820591131,
+      "area": 342000,
+      "averageElevation": 435
+    },
+    {
+      "country": "Costa Rica",
+      "lat": 9.748917,
+      "lon": -83.753428,
+      "population": 5094118,
+      "gdp": 61847979923,
+      "area": 51100,
+      "averageElevation": 746
+    },
+    {
+      "country": "Croatia",
+      "lat": 45.1,
+      "lon": 15.2,
+      "population": 4105267,
+      "gdp": 57203783203,
+      "area": 56594,
+      "averageElevation": 331
+    },
+    {
+      "country": "Cuba",
+      "lat": 21.521757,
+      "lon": -77.781167,
+      "population": 11326616,
+      "gdp": 100023000000,
+      "area": 109884,
+      "averageElevation": 108
+    },
+    {
+      "country": "Cyprus",
+      "lat": 35.126413,
+      "lon": 33.429859,
+      "population": 1207359,
+      "gdp": 23804340000,
+      "area": 9251,
+      "averageElevation": 91
+    },
+    {
+      "country": "Czech Republic",
+      "lat": 49.817492,
+      "lon": 15.472962,
+      "population": 10708981,
+      "gdp": 243530916154,
+      "area": 78867,
+      "averageElevation": 433
+    },
+    {
+      "country": "Denmark",
+      "lat": 56.26392,
+      "lon": 9.501785,
+      "population": 5792202,
+      "gdp": 355675333333,
+      "area": 43094,
+      "averageElevation": 34
+    },
+    {
+      "country": "Djibouti",
+      "lat": 11.825138,
+      "lon": 42.590275,
+      "population": 988000,
+      "gdp": 3384766981,
+      "area": 23200,
+      "averageElevation": 430
+    },
+    {
+      "country": "Dominica",
+      "lat": 15.414999,
+      "lon": -61.370976,
+      "population": 71986,
+      "gdp": 469882962,
+      "area": 751,
+      "averageElevation": 463
+    },
+    {
+      "country": "Dominican Republic",
+      "lat": 18.735693,
+      "lon": -70.162651,
+      "population": 10847910,
+      "gdp": 78844702329,
+      "area": 48671,
+      "averageElevation": 424
+    },
+    {
+      "country": "East Timor",
+      "lat": -8.874217,
+      "lon": 125.727539,
+      "population": 1318445,
+      "gdp": 1821000000,
+      "area": 14874,
+      "averageElevation": 652
+    },
+    {
+      "country": "Ecuador",
+      "lat": -1.831239,
+      "lon": -78.183406,
+      "population": 17643054,
+      "gdp": 98808010000,
+      "area": 283561,
+      "averageElevation": 1117
+    },
+    {
+      "country": "Egypt",
+      "lat": 26.820553,
+      "lon": 30.802498,
+      "population": 102334404,
+      "gdp": 363069000000,
+      "area": 1001450,
+      "averageElevation": 321
+    },
+    {
+      "country": "El Salvador",
+      "lat": 13.794185,
+      "lon": -88.89653,
+      "population": 6486205,
+      "gdp": 24638720000,
+      "area": 21041,
+      "averageElevation": 442
+    },
+    {
+      "country": "Equatorial Guinea",
+      "lat": 1.650801,
+      "lon": 10.267895,
+      "population": 1402985,
+      "gdp": 10021856754,
+      "area": 28051,
+      "averageElevation": 577
+    },
+    {
+      "country": "Eritrea",
+      "lat": 15.179384,
+      "lon": 39.782334,
+      "population": 3546421,
+      "gdp": 2065001626,
+      "area": 117600,
+      "averageElevation": 853
+    },
+    {
+      "country": "Estonia",
+      "lat": 58.595272,
+      "lon": 25.013607,
+      "population": 1326535,
+      "gdp": 31461995853,
+      "area": 45227,
+      "averageElevation": 61
+    },
+    {
+      "country": "Ethiopia",
+      "lat": 9.145,
+      "lon": 40.489673,
+      "population": 114963583,
+      "gdp": 96607662398,
+      "area": 1104300,
+      "averageElevation": 1330
+    },
+    {
+      "country": "Fiji",
+      "lat": -17.713371,
+      "lon": 178.065032,
+      "population": 896444,
+      "gdp": 4376770398,
+      "area": 18274,
+      "averageElevation": 435
+    },
+    {
+      "country": "Finland",
+      "lat": 61.92411,
+      "lon": 25.748151,
+      "population": 5530719,
+      "gdp": 269741392897,
+      "area": 338424,
+      "averageElevation": 164
+    },
+    {
+      "country": "France",
+      "lat": 46.227638,
+      "lon": 2.213749,
+      "population": 65273511,
+      "gdp": 2630317731455,
+      "area": 551695,
+      "averageElevation": 375
+    },
+    {
+      "country": "Gabon",
+      "lat": -0.803689,
+      "lon": 11.609444,
+      "population": 2225734,
+      "gdp": 15593177459,
+      "area": 267667,
+      "averageElevation": 377
+    },
+    {
+      "country": "Gambia",
+      "lat": 13.443182,
+      "lon": -15.310139,
+      "population": 2416668,
+      "gdp": 1902415337,
+      "area": 11295,
+      "averageElevation": 34
+    },
+    {
+      "country": "Georgia",
+      "lat": 42.315407,
+      "lon": 43.356892,
+      "population": 3989167,
+      "gdp": 15846489861,
+      "area": 69700,
+      "averageElevation": 1432
+    },
+    {
+      "country": "Germany",
+      "lat": 51.165691,
+      "lon": 10.451526,
+      "population": 83783942,
+      "gdp": 3846413928654,
+      "area": 357022,
+      "averageElevation": 263
+    },
+    {
+      "country": "Ghana",
+      "lat": 7.946527,
+      "lon": -1.023194,
+      "population": 31072940,
+      "gdp": 72354428366,
+      "area": 238535,
+      "averageElevation": 190
+    },
+    {
+      "country": "Greece",
+      "lat": 39.074208,
+      "lon": 21.824312,
+      "population": 10423054,
+      "gdp": 189410106033,
+      "area": 131957,
+      "averageElevation": 498
+    },
+    {
+      "country": "Grenada",
+      "lat": 12.262776,
+      "lon": -61.604171,
+      "population": 112523,
+      "gdp": 1089134074,
+      "area": 344,
+      "averageElevation": 160
+    },
+    {
+      "country": "Guatemala",
+      "lat": 15.783471,
+      "lon": -90.230759,
+      "population": 17915568,
+      "gdp": 77604632111,
+      "area": 108889,
+      "averageElevation": 759
+    },
+    {
+      "country": "Guinea",
+      "lat": 9.945587,
+      "lon": -9.696645,
+      "population": 13132795,
+      "gdp": 15681050598,
+      "area": 245857,
+      "averageElevation": 472
+    },
+    {
+      "country": "Guinea-Bissau",
+      "lat": 11.803749,
+      "lon": -15.180413,
+      "population": 1968001,
+      "gdp": 1432125255,
+      "area": 36125,
+      "averageElevation": 70
+    },
+    {
+      "country": "Guyana",
+      "lat": 4.860416,
+      "lon": -58.93018,
+      "population": 786552,
+      "gdp": 6955290000,
+      "area": 214969,
+      "averageElevation": 207
+    },
+    {
+      "country": "Haiti",
+      "lat": 18.971187,
+      "lon": -72.285215,
+      "population": 11402528,
+      "gdp": 14508000000,
+      "area": 27750,
+      "averageElevation": 470
+    },
+    {
+      "country": "Honduras",
+      "lat": 15.199999,
+      "lon": -86.241905,
+      "population": 9904607,
+      "gdp": 23827713825,
+      "area": 112492,
+      "averageElevation": 684
+    },
+    {
+      "country": "Hungary",
+      "lat": 47.162494,
+      "lon": 19.503304,
+      "population": 9660351,
+      "gdp": 155012927584,
+      "area": 93028,
+      "averageElevation": 143
+    },
+    {
+      "country": "Iceland",
+      "lat": 64.963051,
+      "lon": -19.020835,
+      "population": 364134,
+      "gdp": 21717471349,
+      "area": 103000,
+      "averageElevation": 557
+    },
+    {
+      "country": "India",
+      "lat": 20.593684,
+      "lon": 78.96288,
+      "population": 1380004385,
+      "gdp": 2622983732006,
+      "area": 3287263,
+      "averageElevation": 160
+    },
+    {
+      "country": "Indonesia",
+      "lat": -0.789275,
+      "lon": 113.921327,
+      "population": 273523615,
+      "gdp": 1058423838345,
+      "area": 1904569,
+      "averageElevation": 367
+    },
+    {
+      "country": "Iran",
+      "lat": 32.427908,
+      "lon": 53.688046,
+      "population": 83992949,
+      "gdp": 359713147963,
+      "area": 1648195,
+      "averageElevation": 1305
+    },
+    {
+      "country": "Iraq",
+      "lat": 33.223191,
+      "lon": 43.679291,
+      "population": 40462701,
+      "gdp": 167224322831,
+      "area": 438317,
+      "averageElevation": 312
+    },
+    {
+      "country": "Ireland",
+      "lat": 53.41291,
+      "lon": -8.24389,
+      "population": 4937786,
+      "gdp": 418622878247,
+      "area": 70273,
+      "averageElevation": 118
+    },
+    {
+      "country": "Israel",
+      "lat": 31.046051,
+      "lon": 34.851612,
+      "population": 9291000,
+      "gdp": 402639200000,
+      "area": 22072,
+      "averageElevation": 508
+    },
+    {
+      "country": "Italy",
+      "lat": 41.87194,
+      "lon": 12.56738,
+      "population": 60461826,
+      "gdp": 1886445268341,
+      "area": 301340,
+      "averageElevation": 538
+    },
+    {
+      "country": "Jamaica",
+      "lat": 18.109581,
+      "lon": -77.297508,
+      "population": 2961161,
+      "gdp": 13812421807,
+      "area": 10991,
+      "averageElevation": 18
+    },
+    {
+      "country": "Japan",
+      "lat": 36.204824,
+      "lon": 138.252924,
+      "population": 125836021,
+      "gdp": 4231141201863,
+      "area": 377975,
+      "averageElevation": 438
+    },
+    {
+      "country": "Jordan",
+      "lat": 30.585164,
+      "lon": 36.238414,
+      "population": 10203134,
+      "gdp": 43697659605,
+      "area": 89342,
+      "averageElevation": 812
+    },
+    {
+      "country": "Kazakhstan",
+      "lat": 48.019573,
+      "lon": 66.923684,
+      "population": 18776707,
+      "gdp": 169835426960,
+      "area": 2724900,
+      "averageElevation": 387
+    },
+    {
+      "country": "Kenya",
+      "lat": -0.023559,
+      "lon": 37.906193,
+      "population": 53771296,
+      "gdp": 95503088538,
+      "area": 580367,
+      "averageElevation": 762
+    },
+    {
+      "country": "Kiribati",
+      "lat": -3.370417,
+      "lon": -168.734039,
+      "population": 119449,
+      "gdp": 194647527,
+      "area": 811,
+      "averageElevation": 2
+    },
+    {
+      "country": "Kuwait",
+      "lat": 29.31166,
+      "lon": 47.481766,
+      "population": 4270571,
+      "gdp": 134620495752,
+      "area": 17818,
+      "averageElevation": 108
+    },
+    {
+      "country": "Kyrgyzstan",
+      "lat": 41.20438,
+      "lon": 74.766098,
+      "population": 6524195,
+      "gdp": 8455373728,
+      "area": 199951,
+      "averageElevation": 2988
+    },
+    {
+      "country": "Laos",
+      "lat": 19.85627,
+      "lon": 102.495496,
+      "population": 7275560,
+      "gdp": 18827158892,
+      "area": 236800,
+      "averageElevation": 710
+    },
+    {
+      "country": "latvia",
+      "lat": 56.879635,
+      "lon": 24.603189,
+      "population": 1886198,
+      "gdp": 33505185583,
+      "area": 64589,
+      "averageElevation": 87
+    },
+    {
+      "country": "Lebanon",
+      "lat": 33.854721,
+      "lon": 35.862285,
+      "population": 6825445,
+      "gdp": 33383246858,
+      "area": 10452,
+      "averageElevation": 1250
+    },
+    {
+      "country": "Lesotho",
+      "lat": -29.609988,
+      "lon": 28.233608,
+      "population": 2142249,
+      "gdp": 2496193963,
+      "area": 30355,
+      "averageElevation": 2161
+    },
+    {
+      "country": "Liberia",
+      "lat": 6.428055,
+      "lon": -9.429499,
+      "population": 5057681,
+      "gdp": 3219400000,
+      "area": 111369,
+      "averageElevation": 243
+    },
+    {
+      "country": "Libya",
+      "lat": 26.3351,
+      "lon": 17.228331,
+      "population": 6871292,
+      "gdp": 42817456033,
+      "area": 1759540,
+      "averageElevation": 423
+    },
+    {
+      "country": "Liechtenstein",
+      "lat": 47.166,
+      "lon": 9.555373,
+      "population": 38128,
+      "gdp": 6289172000,
+      "area": 160,
+      "averageElevation": 1100
+    },
+    {
+      "country": "Lithuania",
+      "lat": 55.169438,
+      "lon": 23.881275,
+      "population": 2722289,
+      "gdp": 55887865307,
+      "area": 65300,
+      "averageElevation": 110
+    },
+    {
+      "country": "Luxembourg",
+      "lat": 49.815273,
+      "lon": 6.129583,
+      "population": 625978,
+      "gdp": 73264152433,
+      "area": 2586,
+      "averageElevation": 325
+    },
+    {
+      "country": "Madagascar",
+      "lat": -18.766947,
+      "lon": 46.869107,
+      "population": 27691018,
+      "gdp": 13721496813,
+      "area": 587041,
+      "averageElevation": 615
+    },
+    {
+      "country": "Malawi",
+      "lat": -13.254308,
+      "lon": 34.301525,
+      "population": 19129952,
+      "gdp": 7666704427,
+      "area": 118484,
+      "averageElevation": 779
+    },
+    {
+      "country": "Malaysia",
+      "lat": 4.210484,
+      "lon": 101.975766,
+      "population": 32365999,
+      "gdp": 364701517866,
+      "area": 330803,
+      "averageElevation": 419
+    },
+    {
+      "country": "Maldives",
+      "lat": 3.202778,
+      "lon": 73.22068,
+      "population": 540544,
+      "gdp": 4030294685,
+      "area": 298,
+      "averageElevation": 1.5
+    },
+    {
+      "country": "Mali",
+      "lat": 17.570692,
+      "lon": -3.996166,
+      "population": 20250833,
+      "gdp": 17393752487,
+      "area": 1240192,
+      "averageElevation": 343
+    },
+    {
+      "country": "Malta",
+      "lat": 35.937496,
+      "lon": 14.375416,
+      "population": 441543,
+      "gdp": 14647384597,
+      "area": 316,
+      "averageElevation": 90
+    },
+    {
+      "country": "Marshall Islands",
+      "lat": 7.131474,
+      "lon": 171.184478,
+      "population": 59190,
+      "gdp": 239000000,
+      "area": 181,
+      "averageElevation": 2
+    },
+    {
+      "country": "Mauritania",
+      "lat": 21.00789,
+      "lon": -10.940835,
+      "population": 4649658,
+      "gdp": 7913832353,
+      "area": 1030700,
+      "averageElevation": 276
+    },
+    {
+      "country": "Mauritius",
+      "lat": -20.348404,
+      "lon": 57.552152,
+      "population": 1271768,
+      "gdp": 10914065476,
+      "area": 2040,
+      "averageElevation": 94
+    },
+    {
+      "country": "Mexico",
+      "lat": 23.634501,
+      "lon": -102.552784,
+      "population": 128932753,
+      "gdp": 1076163316209,
+      "area": 1964375,
+      "averageElevation": 1111
+    },
+    {
+      "country": "Micronesia",
+      "lat": 7.425554,
+      "lon": 150.550812,
+      "population": 115023,
+      "gdp": 389000000,
+      "area": 702,
+      "averageElevation": 2
+    },
+    {
+      "country": "Moldova",
+      "lat": 47.411631,
+      "lon": 28.369885,
+      "population": 2617820,
+      "gdp": 11914037291,
+      "area": 33846,
+      "averageElevation": 139
+    },
+    {
+      "country": "Monaco",
+      "lat": 43.738418,
+      "lon": 7.424616,
+      "population": 39242,
+      "gdp": 7424719101,
+      "area": 2.02,
+      "averageElevation": 163
+    },
+    {
+      "country": "Mongolia",
+      "lat": 46.862496,
+      "lon": 103.846656,
+      "population": 3278290,
+      "gdp": 13137128454,
+      "area": 1564110,
+      "averageElevation": 1528
+    },
+    {
+      "country": "Montenegro",
+      "lat": 42.708678,
+      "lon": 19.37439,
+      "population": 621718,
+      "gdp": 4769859725,
+      "area": 13812,
+      "averageElevation": 1086
+    },
+    {
+      "country": "Morocco",
+      "lat": 31.791702,
+      "lon": -7.09262,
+      "population": 36910560,
+      "gdp": 114725065243,
+      "area": 446550,
+      "averageElevation": 909
+    },
+    {
+      "country": "Mozambique",
+      "lat": -18.665695,
+      "lon": 35.529562,
+      "population": 31255435,
+      "gdp": 14021431235,
+      "area": 801590,
+      "averageElevation": 345
+    },
+    {
+      "country": "Myanmar",
+      "lat": 21.916221,
+      "lon": 95.955974,
+      "population": 54409800,
+      "gdp": 76085851259,
+      "area": 676578,
+      "averageElevation": 702
+    },
+    {
+      "country": "Namibia",
+      "lat": -22.95764,
+      "lon": 18.49041,
+      "population": 2540905,
+      "gdp": 10699692308,
+      "area": 824292,
+      "averageElevation": 1141
+    },
+    {
+      "country": "Nauru",
+      "lat": -0.522778,
+      "lon": 166.931503,
+      "population": 10824,
+      "gdp": 114000000,
+      "area": 21,
+      "averageElevation": 0
+    },
+    {
+      "country": "Nepal",
+      "lat": 28.394857,
+      "lon": 84.124008,
+      "population": 29136808,
+      "gdp": 33657175561,
+      "area": 147181,
+      "averageElevation": 3265
+    },
+    {
+      "country": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266,
+      "population": 17134872,
+      "gdp": 907050863744,
+      "area": 41543,
+      "averageElevation": 30
+    },
+    {
+      "country": "New Zealand",
+      "lat": -40.900557,
+      "lon": 174.885971,
+      "population": 5084300,
+      "gdp": 206928765432,
+      "area": 270467,
+      "averageElevation": 388
+    },
+    {
+      "country": "Nicaragua",
+      "lat": 12.865416,
+      "lon": -85.207229,
+      "population": 6624554,
+      "gdp": 12621543841,
+      "area": 130373,
+      "averageElevation": 298
+    },
+    {
+      "country": "Niger",
+      "lat": 17.607789,
+      "lon": 8.081666,
+      "population": 24206644,
+      "gdp": 13678234195,
+      "area": 1267000,
+      "averageElevation": 474
+    },
+    {
+      "country": "Nigeria",
+      "lat": 9.081999,
+      "lon": 8.675277,
+      "population": 206139589,
+      "gdp": 432293776262,
+      "area": 923768,
+      "averageElevation": 380
+    },
+    {
+      "country": "North Korea",
+      "lat": 40.339852,
+      "lon": 127.510093,
+      "population": 25778816,
+      "gdp": 16785000000,
+      "area": 120538,
+      "averageElevation": 600
+    },
+    {
+      "country": "North Macedonia",
+      "lat": 41.608635,
+      "lon": 21.745275,
+      "population": 2083374,
+      "gdp": 12672131491,
+      "area": 25713,
+      "averageElevation": 741
+    },
+    {
+      "country": "Norway",
+      "lat": 60.472024,
+      "lon": 8.468946,
+      "population": 5421241,
+      "gdp": 362523252092,
+      "area": 323802,
+      "averageElevation": 460
+    },
+    {
+      "country": "Oman",
+      "lat": 21.512583,
+      "lon": 55.923255,
+      "population": 5106626,
+      "gdp": 76331518731,
+      "area": 309500,
+      "averageElevation": 310
+    },
+    {
+      "country": "Pakistan",
+      "lat": 30.375321,
+      "lon": 69.345116,
+      "population": 220892340,
+      "gdp": 278221906569,
+      "area": 881913,
+      "averageElevation": 900
+    },
+    {
+      "country": "Palau",
+      "lat": 7.51498,
+      "lon": 134.58252,
+      "population": 18094,
+      "gdp": 268000000,
+      "area": 459,
+      "averageElevation": 33
+    },
+    {
+      "country": "Palestine",
+      "lat": 31.952162,
+      "lon": 35.233154,
+      "population": 5101414,
+      "gdp": 15561000000,
+      "area": 6020,
+      "averageElevation": 875
+    },
+    {
+      "country": "Panama",
+      "lat": 8.537981,
+      "lon": -80.782127,
+      "population": 4314767,
+      "gdp": 52938100000,
+      "area": 75420,
+      "averageElevation": 360
+    },
+    {
+      "country": "Papua New Guinea",
+      "lat": -6.314993,
+      "lon": 143.95555,
+      "population": 8947024,
+      "gdp": 23592095378,
+      "area": 462840,
+      "averageElevation": 667
+    },
+    {
+      "country": "Paraguay",
+      "lat": -23.442503,
+      "lon": -58.443832,
+      "population": 7132538,
+      "gdp": 35304178916,
+      "area": 406752,
+      "averageElevation": 178
+    },
+    {
+      "country": "Peru",
+      "lat": -9.189967,
+      "lon": -75.015152,
+      "population": 32971854,
+      "gdp": 202014363787,
+      "area": 1285216,
+      "averageElevation": 1555
+    },
+    {
+      "country": "Philippines",
+      "lat": 12.879721,
+      "lon": 121.774017,
+      "population": 109581078,
+      "gdp": 361489325230,
+      "area": 300000,
+      "averageElevation": 442
+    },
+    {
+      "country": "Poland",
+      "lat": 51.919438,
+      "lon": 19.145136,
+      "population": 37846611,
+      "gdp": 592164400687,
+      "area": 312696,
+      "averageElevation": 173
+    },
+    {
+      "country": "Portugal",
+      "lat": 39.399872,
+      "lon": -8.224454,
+      "population": 10196709,
+      "gdp": 231286624495,
+      "area": 92090,
+      "averageElevation": 372
+    },
+    {
+      "country": "Qatar",
+      "lat": 25.354826,
+      "lon": 51.183884,
+      "population": 2881053,
+      "gdp": 144411138461,
+      "area": 11586,
+      "averageElevation": 28
+    },
+    {
+      "country": "Romania",
+      "lat": 45.943161,
+      "lon": 24.96676,
+      "population": 19237691,
+      "gdp": 248715551367,
+      "area": 238397,
+      "averageElevation": 414
+    },
+    {
+      "country": "Russia",
+      "lat": 61.52401,
+      "lon": 105.318756,
+      "population": 144104080,
+      "gdp": 1483497784868,
+      "area": 17098246,
+      "averageElevation": 228
+    },
+    {
+      "country": "Rwanda",
+      "lat": -1.940278,
+      "lon": 29.873888,
+      "population": 12952218,
+      "gdp": 10122472590,
+      "area": 26338,
+      "averageElevation": 1598
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "lat": 17.357822,
+      "lon": -62.782998,
+      "population": 53199,
+      "gdp": 927458148,
+      "area": 261,
+      "averageElevation": 163
+    },
+    {
+      "country": "Saint Lucia",
+      "lat": 13.909444,
+      "lon": -60.978893,
+      "population": 183627,
+      "gdp": 1703000000,
+      "area": 616,
+      "averageElevation": 230
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "lat": 12.984305,
+      "lon": -61.287228,
+      "population": 110940,
+      "gdp": 785000000,
+      "area": 389,
+      "averageElevation": 204
+    },
+    {
+      "country": "Samoa",
+      "lat": -13.759029,
+      "lon": -172.104629,
+      "population": 198414,
+      "gdp": 844872332,
+      "area": 2831,
+      "averageElevation": 660
+    },
+    {
+      "country": "San Marino",
+      "lat": 43.94236,
+      "lon": 12.457777,
+      "population": 33931,
+      "gdp": 1637931034,
+      "area": 61,
+      "averageElevation": 657
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "lat": 0.18636,
+      "lon": 6.613081,
+      "population": 219159,
+      "gdp": 418631148,
+      "area": 964,
+      "averageElevation": 269
+    },
+    {
+      "country": "Saudi Arabia",
+      "lat": 23.885942,
+      "lon": 45.079162,
+      "population": 34813871,
+      "gdp": 700117873244,
+      "area": 2149690,
+      "averageElevation": 665
+    },
+    {
+      "country": "Senegal",
+      "lat": 14.497401,
+      "lon": -14.452362,
+      "population": 16743927,
+      "gdp": 23578084052,
+      "area": 196722,
+      "averageElevation": 69
+    },
+    {
+      "country": "Serbia",
+      "lat": 44.016521,
+      "lon": 21.005859,
+      "population": 6804596,
+      "gdp": 51409167351,
+      "area": 77474,
+      "averageElevation": 442
+    },
+    {
+      "country": "Seychelles",
+      "lat": -4.679574,
+      "lon": 55.491977,
+      "population": 98347,
+      "gdp": 1125341974,
+      "area": 455,
+      "averageElevation": 235
+    },
+    {
+      "country": "Sierra Leone",
+      "lat": 8.460555,
+      "lon": -11.779889,
+      "population": 7976983,
+      "gdp": 3941474311,
+      "area": 71740,
+      "averageElevation": 279
+    },
+    {
+      "country": "Singapore",
+      "lat": 1.352083,
+      "lon": 103.819836,
+      "population": 5850342,
+      "gdp": 339998477929,
+      "area": 728,
+      "averageElevation": 15
+    },
+    {
+      "country": "Slovakia",
+      "lat": 48.669026,
+      "lon": 19.699024,
+      "population": 5459642,
+      "gdp": 104574120519,
+      "area": 49035,
+      "averageElevation": 458
+    },
+    {
+      "country": "Slovenia",
+      "lat": 46.151241,
+      "lon": 14.995463,
+      "population": 2078938,
+      "gdp": 53589609937,
+      "area": 20273,
+      "averageElevation": 492
+    },
+    {
+      "country": "Solomon Islands",
+      "lat": -9.64571,
+      "lon": 160.156194,
+      "population": 686884,
+      "gdp": 1551072430,
+      "area": 28896,
+      "averageElevation": 145
+    },
+    {
+      "country": "Somalia",
+      "lat": 5.152149,
+      "lon": 46.199616,
+      "population": 15893222,
+      "gdp": 4918000000,
+      "area": 637657,
+      "averageElevation": 410
+    },
+    {
+      "country": "South Africa",
+      "lat": -30.559482,
+      "lon": 22.937506,
+      "population": 59308690,
+      "gdp": 301924073815,
+      "area": 1219090,
+      "averageElevation": 1034
+    },
+    {
+      "country": "South Korea",
+      "lat": 35.907757,
+      "lon": 127.766922,
+      "population": 51269185,
+      "gdp": 1630868736220,
+      "area": 100210,
+      "averageElevation": 282
+    },
+    {
+      "country": "South Sudan",
+      "lat": 6.876991,
+      "lon": 31.306978,
+      "population": 11193725,
+      "gdp": 11997800760,
+      "area": 644329,
+      "averageElevation": 547
+    },
+    {
+      "country": "Spain",
+      "lat": 40.463667,
+      "lon": -3.74922,
+      "population": 47351567,
+      "gdp": 1281484640044,
+      "area": 505990,
+      "averageElevation": 660
+    },
+    {
+      "country": "Sri Lanka",
+      "lat": 7.873054,
+      "lon": 80.771797,
+      "population": 21919000,
+      "gdp": 84532328393,
+      "area": 65610,
+      "averageElevation": 228
+    },
+    {
+      "country": "Sudan",
+      "lat": 12.862807,
+      "lon": 30.217636,
+      "population": 43849260,
+      "gdp": 34326057920,
+      "area": 1861484,
+      "averageElevation": 568
+    },
+    {
+      "country": "Suriname",
+      "lat": 3.919305,
+      "lon": -56.027783,
+      "population": 586634,
+      "gdp": 3985250760,
+      "area": 163821,
+      "averageElevation": 246
+    },
+    {
+      "country": "Sweden",
+      "lat": 60.128161,
+      "lon": 18.643501,
+      "population": 10099265,
+      "gdp": 537609891557,
+      "area": 450295,
+      "averageElevation": 320
+    },
+    {
+      "country": "Switzerland",
+      "lat": 46.818188,
+      "lon": 8.227512,
+      "population": 8654622,
+      "gdp": 703082435360,
+      "area": 41277,
+      "averageElevation": 1350
+    },
+    {
+      "country": "Syria",
+      "lat": 34.802075,
+      "lon": 38.996815,
+      "population": 17500658,
+      "gdp": 40405006007,
+      "area": 185180,
+      "averageElevation": 514
+    },
+    {
+      "country": "Taiwan",
+      "lat": 23.69781,
+      "lon": 120.960515,
+      "population": 23816775,
+      "gdp": 668161000000,
+      "area": 36193,
+      "averageElevation": 1150
+    },
+    {
+      "country": "Tajikistan",
+      "lat": 38.861034,
+      "lon": 71.276093,
+      "population": 9537645,
+      "gdp": 8194200000,
+      "area": 143100,
+      "averageElevation": 3186
+    },
+    {
+      "country": "Tanzania",
+      "lat": -6.369028,
+      "lon": 34.888822,
+      "population": 59734218,
+      "gdp": 62409749261,
+      "area": 947303,
+      "averageElevation": 1018
+    },
+    {
+      "country": "Thailand",
+      "lat": 15.870032,
+      "lon": 100.992541,
+      "population": 69799978,
+      "gdp": 501888992561,
+      "area": 513120,
+      "averageElevation": 287
+    },
+    {
+      "country": "Timor-Leste",
+      "lat": -8.874217,
+      "lon": 125.727539,
+      "population": 1318445,
+      "gdp": 1821000000,
+      "area": 14874,
+      "averageElevation": 652
+    },
+    {
+      "country": "Togo",
+      "lat": 8.619543,
+      "lon": 0.824782,
+      "population": 8278724,
+      "gdp": 7574639173,
+      "area": 56785,
+      "averageElevation": 236
+    },
+    {
+      "country": "Tonga",
+      "lat": -21.178986,
+      "lon": -175.198242,
+      "population": 105695,
+      "gdp": 450122625,
+      "area": 747,
+      "averageElevation": 82
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "lat": 10.691803,
+      "lon": -61.222503,
+      "population": 1399488,
+      "gdp": 21589393939,
+      "area": 5128,
+      "averageElevation": 83
+    },
+    {
+      "country": "Tunisia",
+      "lat": 33.886917,
+      "lon": 9.537499,
+      "population": 11818619,
+      "gdp": 39236610706,
+      "area": 163610,
+      "averageElevation": 246
+    },
+    {
+      "country": "Turkey",
+      "lat": 38.963745,
+      "lon": 35.243322,
+      "population": 84339067,
+      "gdp": 719954821683,
+      "area": 783562,
+      "averageElevation": 1132
+    },
+    {
+      "country": "Turkmenistan",
+      "lat": 38.969719,
+      "lon": 59.556278,
+      "population": 6031200,
+      "gdp": 45231428571,
+      "area": 488100,
+      "averageElevation": 230
+    },
+    {
+      "country": "Tuvalu",
+      "lat": -7.109535,
+      "lon": 177.64933,
+      "population": 11792,
+      "gdp": 47271511,
+      "area": 26,
+      "averageElevation": 2
+    },
+    {
+      "country": "Uganda",
+      "lat": 1.373333,
+      "lon": 32.290275,
+      "population": 45741007,
+      "gdp": 37600364799,
+      "area": 241550,
+      "averageElevation": 1100
+    },
+    {
+      "country": "Ukraine",
+      "lat": 48.379433,
+      "lon": 31.16558,
+      "population": 44134693,
+      "gdp": 155582000000,
+      "area": 603550,
+      "averageElevation": 175
+    },
+    {
+      "country": "United Arab Emirates",
+      "lat": 23.424076,
+      "lon": 53.847818,
+      "population": 9890402,
+      "gdp": 421142267937,
+      "area": 83600,
+      "averageElevation": 149
+    },
+    {
+      "country": "United Kingdom",
+      "lat": 55.378051,
+      "lon": -3.435973,
+      "population": 67215293,
+      "gdp": 2827113184696,
+      "area": 242495,
+      "averageElevation": 162
+    },
+    {
+      "country": "United States",
+      "lat": 37.09024,
+      "lon": -95.712891,
+      "population": 331002651,
+      "gdp": 20936600000000,
+      "area": 9833517,
+      "averageElevation": 760
+    },
+    {
+      "country": "Uruguay",
+      "lat": -32.522779,
+      "lon": -55.765835,
+      "population": 3473730,
+      "gdp": 53628827440,
+      "area": 176215,
+      "averageElevation": 109
+    },
+    {
+      "country": "Uzbekistan",
+      "lat": 41.377491,
+      "lon": 64.585262,
+      "population": 34232050,
+      "gdp": 57921286440,
+      "area": 447400,
+      "averageElevation": 420
+    },
+    {
+      "country": "Vanuatu",
+      "lat": -15.376706,
+      "lon": 166.959158,
+      "population": 307145,
+      "gdp": 917058824,
+      "area": 12189,
+      "averageElevation": 420
+    },
+    {
+      "country": "Vatican City",
+      "lat": 41.902916,
+      "lon": 12.453389,
+      "population": 825,
+      "gdp": 21000000,
+      "area": 0.44,
+      "averageElevation": 75
+    },
+    {
+      "country": "Venezuela",
+      "lat": 6.42375,
+      "lon": -66.58973,
+      "population": 28435943,
+      "gdp": 482359316138,
+      "area": 916445,
+      "averageElevation": 450
+    },
+    {
+      "country": "Vietnam",
+      "lat": 14.058324,
+      "lon": 108.277199,
+      "population": 97338579,
+      "gdp": 261921244843,
+      "area": 331210,
+      "averageElevation": 398
+    },
+    {
+      "country": "Yemen",
+      "lat": 15.552727,
+      "lon": 48.516388,
+      "population": 29825964,
+      "gdp": 23486361504,
+      "area": 527968,
+      "averageElevation": 999
+    },
+    {
+      "country": "Zambia",
+      "lat": -13.133897,
+      "lon": 27.849332,
+      "population": 18383955,
+      "gdp": 19320053844,
+      "area": 752618,
+      "averageElevation": 1138
+    },
+    {
+      "country": "Zimbabwe",
+      "lat": -19.015438,
+      "lon": 29.154857,
+      "population": 14862924,
+      "gdp": 16768513924,
+      "area": 390757,
+      "averageElevation": 961
+    }
+  ]
+  
