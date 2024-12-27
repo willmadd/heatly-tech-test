@@ -67,8 +67,6 @@ const Canvas = ({ dataCategory }: Props) => {
       return;
     }
 
-    gl.enable(gl.DEPTH_TEST);
-    gl.depthFunc(gl.LEQUAL);
     gl.clearColor(0.0, 0.2, 0.3, 1.0);
 
     const vertexShader = gl.createShader(gl.VERTEX_SHADER);
@@ -213,7 +211,6 @@ const Canvas = ({ dataCategory }: Props) => {
       if (!gl) return;
       gl.clear(gl.COLOR_BUFFER_BIT | gl.DEPTH_BUFFER_BIT);
 
-      gl.disable(gl.DEPTH_TEST);
       gl.bindBuffer(gl.ARRAY_BUFFER, quadBuffer);
       gl.vertexAttribPointer(positionAttribLocation, 3, gl.FLOAT, false, 20, 0);
       gl.vertexAttribPointer(
@@ -232,8 +229,6 @@ const Canvas = ({ dataCategory }: Props) => {
       gl.drawArrays(gl.TRIANGLES, 0, 6);
 
       gl.disableVertexAttribArray(texCoordAttribLocation);
-
-      gl.enable(gl.DEPTH_TEST);
 
       gl.bindBuffer(gl.ARRAY_BUFFER, cylinderBuffer);
       gl.vertexAttribPointer(positionAttribLocation, 3, gl.FLOAT, false, 0, 0);
