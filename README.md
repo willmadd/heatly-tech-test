@@ -1,50 +1,65 @@
-# React + TypeScript + Vite
+# Heatly WebGL Tech Test - World Data Visualiser
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
 
-Currently, two official plugins are available:
+- [Notes](#notes)
+- [Installation](#installation)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+###
 
-## Expanding the ESLint configuration
+![alt text](/public/demo.png "Title")
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Notes
 
-- Configure the top-level `parserOptions` property like this:
+I have created a world data visualiser that shows
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
+- population
+- GDP
+- Area
+- Average Elevation
+
+This has been created with vanilla WebGL, not using any WebGL Libraries such as three.js. as such it is a little more basic than I would have liked, however most of my time went into learning vanilla WebGL.
+
+Features I would liked to have added
+
+- Animate View
+- Animate bar height changing when selecting different category to view
+- Display labels over the bars with the actual number
+
+I have tried to keep chat GPT usage to a minimum, the only issue I had where I needed it's help was I was having an issue with depth buffers appearing out of order when displaying the cylinders and the map.
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/willmadd/heatly-tech-test
 ```
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+Navigate to the project directory:
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
-
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
+```bash
+cd heatly-tech-test
 ```
+
+```bash
+yarn install
+```
+
+## Running Locally
+
+To start the development server run
+
+```bash
+yarn dev
+```
+
+You will then be able to see the project run locally, normally at
+
+```bash
+http://localhost:5174/
+```
+
+## Notes
+
+This is a vanilla webgl project.
