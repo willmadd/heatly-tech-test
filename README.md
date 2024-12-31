@@ -4,6 +4,7 @@
 
 - [Notes](#notes)
 - [Installation](#installation)
+- [Running Locally](#Running Locally)
 
 ###
 
@@ -59,7 +60,3 @@ You will then be able to see the project run locally, normally at
 ```bash
 http://localhost:5174/
 ```
-
-## Notes
-
-This is a vanilla webgl project.
